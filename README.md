@@ -1,5 +1,9 @@
 PT YAMAHA MOTOR PARTS Mfg. Indonesia
+
+
 	Visi	: Create Kando (perasaan kepuasan dan kegembiraan yang luar biasa) dengan produk dan layanan yang melampaui ekspektasi pelanggan melalui semangat inovasi dan nilai tinggi.
+
+    
 Misi & Tujuan :
 a. Mencapai Kapabilitas Manufaktur Penuh: Sebagai produsen suku cadang motor, YPMI berkomitmen mendukung industri Indonesia dengan teknologi dan proses terbaik.
 b. Kualitas & Kinerja Tinggi: Menghasilkan komponen dengan kualitas dan performa superior untuk meningkatkan kualitas produk Yamaha secara keseluruhan.
