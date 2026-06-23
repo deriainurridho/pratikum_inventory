@@ -28,9 +28,10 @@ gambar tampilan user
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/7b4df9fe-bb9e-4d74-bf5b-aa816d59d19c" />
 
 
-gambar tampilan dashboard
+gambar tampilan admin
 
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/2eefa759-17b6-4cc1-82eb-ff537c23694b" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/7d86c45f-588a-4bdf-80e4-32981163e100" />
+
 
 tampilan log in
 
